@@ -1,5 +1,5 @@
 Hola 👋
-
+<img src="logoj.png">
 <!--
 **jonny2425/jonny2425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
