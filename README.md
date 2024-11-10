@@ -1,7 +1,7 @@
 
 <img src="logoj.png">
 
-
+https://img.shields.io/youtube/channel/subscribers/@JonnyAventuras-p2t](https://youtube.com/@Namistaki?sub_confirmation=1
 
 Here are some ideas to get you started:
 
