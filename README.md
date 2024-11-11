@@ -1,8 +1,8 @@
 
 <img src="logoj.png">
 
-(https://img.shields.io/youtube/channel/subscribers/UCa36jcsh1J8ijChHK3lttKA)]
-(https://www.youtube.com/@JonnyAventuras-p2t?sub_confirmation=1)
+<img src="https://img.shields.io/youtube/channel/subscribers/UCa36jcsh1J8ijChHK3lttKA"
+"https://www.youtube.com/@JonnyAventuras-p2t?sub_confirmation=1">
 
 Here are some ideas to get you started:
 
